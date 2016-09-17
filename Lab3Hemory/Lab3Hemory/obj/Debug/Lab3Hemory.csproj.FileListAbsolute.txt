@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\Lab3Hemory\Lab3Hemory\bin\Debug\Lab3Hemory.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab3Hemory\Lab3Hemory\bin\Debug\Lab3Hemory.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab3Hemory\Lab3Hemory\bin\Debug\Lab3Hemory.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab3Hemory\Lab3Hemory\obj\Debug\Lab3Hemory.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab3Hemory\Lab3Hemory\obj\Debug\Lab3Hemory.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Lab3Hemory\Lab3Hemory\obj\Debug\Lab3Hemory.pdb
